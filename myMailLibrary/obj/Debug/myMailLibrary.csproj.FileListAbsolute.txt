@@ -1,0 +1,20 @@
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailLibrary\bin\Debug\myMailLibrary.dll.config
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailLibrary\bin\Debug\myMailLibrary.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailLibrary\bin\Debug\myMailLibrary.pdb
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailLibrary\obj\Debug\myMailLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailLibrary\obj\Debug\myMailLibrary.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailLibrary\obj\Debug\myMailLibrary.pdb
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailLibrary\bin\Debug\myMailLibrary.dll.config
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailLibrary\bin\Debug\myMailLibrary.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailLibrary\bin\Debug\myMailLibrary.pdb
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailLibrary\obj\Debug\myMailLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailLibrary\obj\Debug\myMailLibrary.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailLibrary\obj\Debug\myMailLibrary.pdb

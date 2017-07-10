@@ -1,0 +1,56 @@
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\myMailClient.csprojResolveAssemblyReference.cache
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\WPF_AddressBook.g.cs
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\WPF_MainWindow.g.cs
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\WPF_NewContact.g.cs
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\WPF_NewMessage.g.cs
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\App.g.cs
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\myMailClient_MarkupCompile.cache
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\myMailClient_MarkupCompile.lref
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\bin\Debug\myMailClient.exe.config
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\bin\Debug\myMailClient.exe
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\bin\Debug\myMailClient.pdb
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\bin\Debug\myMailLibrary.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\bin\Debug\EntityFramework.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\bin\Debug\myMailLibrary.pdb
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\bin\Debug\EntityFramework.xml
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\WPF_AddressBook.baml
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\WPF_MainWindow.baml
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\WPF_NewContact.baml
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\WPF_NewMessage.baml
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\myMailClient.g.resources
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\myMailClient.Properties.Resources.resources
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\myMailClient.csproj.GenerateResource.Cache
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\myMailClient.exe
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\obj\Debug\myMailClient.pdb
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\bin\Debug\myMailClient.exe.config
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\myMailClient.exe
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\myMailClient.pdb
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\bin\Debug\myMailClient.exe
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\bin\Debug\myMailClient.pdb
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\bin\Debug\EntityFramework.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\bin\Debug\myMailLibrary.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\bin\Debug\myMailLibrary.pdb
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\bin\Debug\EntityFramework.xml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\myMailClient.csprojResolveAssemblyReference.cache
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\WPF_AddressBook.g.cs
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\WPF_MainWindow.g.cs
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\WPF_NewContact.g.cs
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\WPF_NewMessage.g.cs
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\App.g.cs
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\myMailClient_MarkupCompile.cache
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\myMailClient_MarkupCompile.lref
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\WPF_AddressBook.baml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\WPF_MainWindow.baml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\WPF_NewContact.baml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\WPF_NewMessage.baml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\myMailClient.g.resources
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\myMailClient.Properties.Resources.resources
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailClient\obj\Debug\myMailClient.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+﻿<Application x:Class="myMailClient.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:myMailClient"
+             StartupUri="WPF_MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

@@ -1,0 +1,64 @@
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\roslyn\csc.exe
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\roslyn\vbc.exe
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\myMailServer.dll.config
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\myMailServer.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\myMailServer.pdb
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\Newtonsoft.Json.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\System.Net.Http.Formatting.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\System.Web.Http.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\System.Web.Http.WebHost.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\Newtonsoft.Json.xml
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\System.Net.Http.Formatting.xml
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\System.Web.Http.xml
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\System.Web.Http.WebHost.xml
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\obj\Debug\myMailServer.csprojResolveAssemblyReference.cache
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\obj\Debug\myMailServer.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\obj\Debug\myMailServer.pdb
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\myMailLibrary.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\EntityFramework.dll
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\myMailLibrary.pdb
+C:\Users\Gal\documents\visual studio 2015\Projects\myMailClient\myMailServer\bin\EntityFramework.xml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\roslyn\csc.exe
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\roslyn\vbc.exe
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\myMailServer.dll.config
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\myMailServer.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\myMailServer.pdb
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\myMailLibrary.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\Newtonsoft.Json.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\System.Net.Http.Formatting.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\System.Web.Http.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\System.Web.Http.WebHost.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\EntityFramework.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\myMailLibrary.pdb
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\Newtonsoft.Json.xml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\System.Net.Http.Formatting.xml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\System.Web.Http.xml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\System.Web.Http.WebHost.xml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\bin\EntityFramework.xml
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\obj\Debug\myMailServer.csprojResolveAssemblyReference.cache
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\obj\Debug\myMailServer.dll
+C:\Users\Gal\Documents\Visual Studio 2015\Projects\myMailClient ex3\myMailServer\obj\Debug\myMailServer.pdb
